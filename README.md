@@ -1,7 +1,4 @@
 # DreamyDimensions
-                         ![blender logo](https://github.com/user-attachments/assets/9db44e88-a6d7-4bf0-808b-bbee47193873)
-
-
 Welcome to Dreamy Dimensions, my personal playground for exploring the boundless possibilities of 3D creation with Blender.
 
 This repository is a chronicle of my journey into the captivating realm of digital artistry. Here, you'll discover a curated collection of my early Blender projects, ranging from humble beginnings with basic shapes and objects to more intricate scenes that are slowly starting to take shape.

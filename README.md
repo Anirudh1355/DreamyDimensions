@@ -1,5 +1,6 @@
 # DreamyDimensions
-                          ![image](https://github.com/user-attachments/assets/2b196c77-853c-4f90-9d26-76301cc1f73d)
+                          ![download](https://github.com/user-attachments/assets/456d83e1-4e21-474f-b0c6-57183ad31ccb)
+
 
 Welcome to Dreamy Dimensions, my personal playground for exploring the boundless possibilities of 3D creation with Blender.
 

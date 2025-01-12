@@ -1,2 +1,8 @@
 # DreamyDimensions
-This repository showcases my early explorations in Blender, a powerful 3D creation suite. Here you'll find a collection of simple yet intriguing projects, ranging from basic shapes and objects to more complex scenes.
+                          ![image](https://github.com/user-attachments/assets/2b196c77-853c-4f90-9d26-76301cc1f73d)
+
+Welcome to Dreamy Dimensions, my personal playground for exploring the boundless possibilities of 3D creation with Blender.
+
+This repository is a chronicle of my journey into the captivating realm of digital artistry. Here, you'll discover a curated collection of my early Blender projects, ranging from humble beginnings with basic shapes and objects to more intricate scenes that are slowly starting to take shape.
+
+Each project within this repository reflects my ongoing fascination with 3D art. I'm constantly learning and experimenting, pushing the boundaries of my creativity and technical skills.
